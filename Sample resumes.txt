@@ -1,0 +1,51 @@
+1)
+Candidate: Applicant Alpha
+Contact: alpha@email.com
+
+Professional Summary:
+Detail-oriented data professional with 3 years of experience in extracting actionable insights from complex datasets and building interactive dashboards.
+
+Technical Skills:
+- Programming: Python, SQL
+- Data Analysis: Excel, Pandas, NumPy
+- Visualization: Power BI, Tableau
+
+Experience:
+Data Intern | Tech Analytics Corp | Jan 2025 - Present
+- Analyzed large datasets using Python and Pandas to find market trends.
+- Built automated reporting dashboards using Power BI.
+- Queried relational databases daily using SQL.
+
+2)
+Candidate: Applicant Beta
+Contact: beta@email.com
+
+Professional Summary:
+Software developer transitioning into machine learning and artificial intelligence. Passionate about predictive modeling and data pipelines.
+
+Technical Skills:
+- Languages: Python, SQL
+- ML/AI: Machine Learning, scikit-learn, Pandas
+
+Experience:
+Junior Developer | Software Inc. | May 2024 - Present
+- Wrote backend scripts in Python for data processing.
+- Studied Machine Learning algorithms and built test models using scikit-learn.
+- Managed SQL databases for user data.
+
+3)
+Candidate: Applicant Gamma
+Contact: gamma@email.com
+
+Professional Summary:
+Backend engineer with a strong foundation in APIs and object-oriented programming, looking to transition into AI development.
+
+Technical Skills:
+- Core: Python, C++, C#, .NET
+- Integrations: APIs, JSON
+
+Experience:
+Backend Engineer | Cloud Systems | Aug 2023 - Present
+- Built and maintained scalable APIs using C# and .NET.
+- Wrote high-performance microservices in C++.
+- Currently learning Python to integrate basic AI logic into legacy systems.
